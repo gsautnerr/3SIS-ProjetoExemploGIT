@@ -27,4 +27,9 @@ public class Calculadora {
 		return this.resultado;
 	}
 
+	//teste de bugfix
+
+
+	
+
 }
