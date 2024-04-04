@@ -27,4 +27,6 @@ public class Calculadora {
 		return this.resultado;
 	}
 
+	// Correcao hotfix calc
+
 }
