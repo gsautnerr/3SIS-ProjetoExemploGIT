@@ -27,9 +27,13 @@ public class Calculadora {
 		return this.resultado;
 	}
 
+<<<<<<< HEAD
 	//teste de bugfix
 
 
 	
+=======
+	// Correcao hotfix calc
+>>>>>>> CorrecaoCalc
 
 }
